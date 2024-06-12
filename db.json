@@ -1,0 +1,23 @@
+{
+    "cart":[
+        {
+            "id": "1",
+            "name": "item1",
+            "description":"item1",
+            "price": "1000",
+            "img": "https://cs13.pikabu.ru/post_img/2023/09/11/5/1694416670162565263.jpg&quot"
+        },
+        {
+            "id": "2",
+            "key": "2",
+            "name": "item2",
+            "description":"item2",
+            "price": "4000",
+            "img": "https://cs13.pikabu.ru/post_img/2023/09/11/5/1694416670162565263.jpg&quot"
+        }
+    ]
+
+    "overlays": [
+        
+    ]
+}
